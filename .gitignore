@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# I don't want to show my secrets
+/tools/config.php
+donate.php
